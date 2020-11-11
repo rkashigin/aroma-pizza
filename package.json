@@ -155,5 +155,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "json-server": "^0.16.2"
   }
 }
